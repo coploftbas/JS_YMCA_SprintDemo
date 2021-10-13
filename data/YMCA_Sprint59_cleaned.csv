@@ -1,0 +1,77 @@
+Work Item Type,ID,Title,Assigned To,State,Story Points,Estimate Story Point,Category,Tags,Area Path,Missile,Estimate,AreaPathType
+User Story,14623,MAM - eKYC Reserved,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.5,0.5,Design Operations,,CIMB\MAM P2\MAMP2-SA,Plan,Well,Project
+User Story,15023,MAM - eKYC Reserved flow,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.25,0.25,Design Flow,,CIMB\MAM P2\MAMP2-SA,Plan,Well,Project
+User Story,15061,"MAM - Revise NDID, NCB Flow",Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.5,0.5,Meeting,Missile,CIMB\MAM P2\MAMP2-SA,Missile,Well,Project
+User Story,14895,Overflow - Account Management,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Etc.,Missile,JDC\JDC,Missile,Well,Project
+User Story,14900,Overflow expire POC,Yotsakai Taparak <yotsakai@ldrive.io>,Closed,0.25,0.25,Design Operations,Missile,Other,Missile,Well,Project
+User Story,14929,MAM - Meeting,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.25,0.25,Meeting,Missile,CIMB\MAM P2\MAMP2-SA,Missile,Well,Project
+User Story,14930,"MAM - HPCS Prepare Components, ข้อมูลผู้เช่าซื้อ",Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.5,0.5,Design Operations,,CIMB\MAM P2\MAMP2-SA,Plan,Well,Project
+User Story,14940,MAM - HPCS ข้อมูลผู้เช่าซื้อ,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.5,0.5,Design Operations,,CIMB\MAM P2\MAMP2-SA,Plan,Well,Project
+User Story,14944,"eKYC,MAM - Multiple Resolution Design POC",Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,,CIMB\MAM P2\MAMP2-SA,Plan,Well,Project
+User Story,14949,MAM - HPCS walkthrough,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.25,0.25,Meeting,Missile,CIMB\MAM P2\MAMP2-SA,Missile,Well,Project
+User Story,14962,MAM - HPCS Reduce rate approval and view history,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.5,0.5,Design Operations,,CIMB\MAM P2\MAMP2-SA,Plan,Well,Project
+User Story,14969,MAM - HPCS Campaign Management,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.5,0.5,Design Operations,,CIMB\MAM P2\MAMP2-SA,Plan,Well,Project
+User Story,14985,MAM - HPCS Show Convenience Date/time for Contact,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,,CIMB\MAM P2\MAMP2-SA,Plan,Well,Project
+User Story,14986,MAM - Mange Dealer Campaign,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,,CIMB\MAM P2\MAMP2-SA,Plan,Well,Project
+User Story,15005,Consult xcode & swift,Yotsakai Taparak <yotsakai@ldrive.io>,Closed,0.25,0.25,Meeting,Missile,Other,Missile,Well,Project
+User Story,15006,MAM - eKYC Revise,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,Missile,CIMB\MAM P2\MAMP2-SA,Missile,Well,Project
+User Story,15007,MAM - eKYC Flow Revise,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.25,0.25,Design Flow,Missile,CIMB\MAM P2\MAMP2-SA,Missile,Well,Project
+User Story,14604,App - Trade expire option,Yotsakai Taparak <yotsakai@ldrive.io>,Closed,0.25,0.25,Design Operations,,YLG\YLG-SA,Plan,Well,Project
+User Story,14607,Backoffice - Trade expire option,Yotsakai Taparak <yotsakai@ldrive.io>,Closed,0.25,0.25,Design Operations,,YLG\YLG-SA,Plan,Well,Project
+User Story,14608,YLG - Merge Portfolio - Guarantee,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,1.0,1.0,Design Operations,,YLG\YLG-SA,Plan,Well,Project
+User Story,14610,YLG - Discuss design changes,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Meeting,,YLG\YLG-SA,Plan,Well,Project
+User Story,14612,Backoffice - Example ทองตัดฝาก/ทองนำฝาก ,Yotsakai Taparak <yotsakai@ldrive.io>,Closed,0.5,0.5,Design Operations,,YLG\YLG-SA,Plan,Well,Project
+User Story,14614,Portfolio/Transfer เพิ่มเรื่องทองตัดฝาก/นำฝาก,Yotsakai Taparak <yotsakai@ldrive.io>,Closed,0.25,0.25,Design Operations,,YLG\YLG-SA,Plan,Well,Project
+User Story,14622,Backoffice - Support SA,Yotsakai Taparak <yotsakai@ldrive.io>,Closed,0.25,0.25,Design Operations,,YLG\YLG-SA,Plan,Well,Project
+User Story,14795,Merge XAU -> UI,Yotsakai Taparak <yotsakai@ldrive.io>,Closed,2.0,1.0,Design Operations,Extend pt,YLG\YLG-SA,Plan,Under,Project
+User Story,14819,Merge XAU -> UI,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.5,0.5,Design Operations,,YLG\YLG-SA,Plan,Well,Project
+User Story,14853,Backoffice - Withdraw gold limit,Yotsakai Taparak <yotsakai@ldrive.io>,Closed,0.25,0.25,Design Operations,,YLG\YLG-SA,Plan,Well,Project
+User Story,14854,Back0ffice - ปรับการแสดงรายละเอียดทองนำฝาก/ตัดฝาก,Yotsakai Taparak <yotsakai@ldrive.io>,Closed,0.25,0.25,Design Operations,,YLG\YLG-SA,Plan,Well,Project
+User Story,14860,"YLG - Split File, POC",Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,Missile,YLG\YLG-SA,Missile,Well,Project
+User Story,14862,"YLG - Register, Login, KYC",Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,Missile,YLG\YLG-SA,Missile,Well,Project
+User Story,14876,YLG - Merge Portfolio - Stock,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.5,0.5,Design Operations,Missile,YLG\YLG-SA,Missile,Well,Project
+User Story,14877,BO - WinApp icon,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,Missile,YLG\YLG-SA,Missile,Well,Project
+User Story,14896,YLG - Discuss stock auto deduction & Manage Design File Access,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Meeting,Missile,YLG\YLG-SA,Missile,Well,Project
+User Story,14924,YLG - Close account redesign,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Meeting,Missile,YLG\YLG-SA,Missile,Well,Project
+User Story,14936,Application - Support ทองนำฝาก/ตัดฝาก,Yotsakai Taparak <yotsakai@ldrive.io>,Closed,0.25,0.25,Meeting,,YLG\YLG-SA,Plan,Well,Project
+User Story,14965,"App, BO - Close Market",Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,Missile,YLG\YLG-SA,Missile,Well,Project
+User Story,14989,YLG - Weekly progress Update & Debrief,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Meeting,Missile,YLG\YLG-SA,Missile,Well,Project
+User Story,14990,BO - Explain Logic & Recheck design,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,Missile,YLG\YLG-SA,Missile,Well,Project
+User Story,15040,Backofficce - Master Data,Yotsakai Taparak <yotsakai@ldrive.io>,Closed,0.25,0.25,Design Operations,Missile,YLG\YLG-SA,Missile,Well,Project
+User Story,15041,Application - Update Transfer/Withdraw Guarantee Assets,Yotsakai Taparak <yotsakai@ldrive.io>,Closed,0.25,0.25,Design Operations,Missile,YLG\YLG-SA,Missile,Well,Project
+User Story,14725,eKYC/MAM - Revise Design,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.5,0.5,Design Operations,,CIMB\MAM P2\MAMP2-SA,Plan,Well,Project
+User Story,14726,eKYC/MAM - Revise flow,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.5,0.5,Design Flow,,CIMB\MAM P2\MAMP2-SA,Plan,Well,Project
+User Story,14760,"MAM, HPCS - CR MAM Phase 2 Meeting",Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Meeting,,CIMB\MAM P2\MAMP2-SA,Plan,Well,Project
+User Story,14802,eKYC/MAM - Revise Design,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.5,0.5,Design Operations,,CIMB\MAM P2\MAMP2-SA,Plan,Well,Project
+User Story,14818,eKYC/MAM - UI,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.5,0.5,Design Flow,,CIMB\MAM P2\MAMP2-SA,Plan,Well,Project
+User Story,14920,HPCS - Screen Capture & Meeting,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.5,0.5,Meeting,,CIMB\MAM P2\MAMP2-SA,Plan,Well,Project
+User Story,14956,Feedback - Authentication,Yotsakai Taparak <yotsakai@ldrive.io>,Closed,0.25,0.25,Design Operations,Missile,CIMB\PGD\PGD_SA,Missile,Well,Project
+User Story,14957,PGD - Home page,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.5,0.5,Design Operations,,CIMB\PGD\PGD_SA,Plan,Well,Project
+User Story,14991,PGD - Add 2 section to Home page & Prototype,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,Missile,CIMB\PGD\PGD_SA,Missile,Well,Project
+User Story,14999,PGD - Internal Review,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Meeting,Missile,CIMB\PGD\PGD_SA,Missile,Well,Project
+User Story,15002,POC u-choose & plearn,Yotsakai Taparak <yotsakai@ldrive.io>,Closed,0.25,0.25,Design Operations,,CIMB\PGD\PGD_SA,Plan,Well,Project
+User Story,15003,Review CIMB-PGD,Yotsakai Taparak <yotsakai@ldrive.io>,Closed,0.25,0.25,Meeting,,CIMB\PGD\PGD_SA,Plan,Well,Project
+User Story,15044,Feedback - Auth & Redeem,Yotsakai Taparak <yotsakai@ldrive.io>,Closed,0.5,0.5,Design Operations,,CIMB\PGD\PGD_SA,Plan,Well,Project
+User Story,14594,PGD - Discuss requirement,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Meeting,,CIMB\PGD\PGD_SA,Plan,Well,Project
+User Story,14599,PGD - Discuss requirement,Yotsakai Taparak <yotsakai@ldrive.io>,Closed,0.25,0.25,Meeting,,CIMB\PGD\PGD_SA,Plan,Well,Project
+User Story,14605,"PGD - Account, Profile",Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.5,0.5,Design Operations,Missile,CIMB\PGD\PGD_SA,Missile,Well,Project
+User Story,14619,Redeem wireframe,Yotsakai Taparak <yotsakai@ldrive.io>,Closed,1.0,1.0,Design Operations,,CIMB\PGD\PGD_SA,Plan,Well,Project
+User Story,14897,PGD - POC & 1st Ideate,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,,CIMB\PGD\PGD_SA,Plan,Well,Project
+User Story,14901,Ideate - Reference App,Yotsakai Taparak <yotsakai@ldrive.io>,Closed,0.5,0.5,Design Operations,,CIMB\PGD\PGD_SA,Plan,Well,Project
+User Story,14909,Ideate - How to improve current flow,Yotsakai Taparak <yotsakai@ldrive.io>,Closed,0.5,0.5,Design Operations,,CIMB\PGD\PGD_SA,Plan,Well,Project
+User Story,14921,PGD - Capture current & Design TO-BE User Journey,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.5,0.5,Design Operations,,CIMB\PGD\PGD_SA,Plan,Well,Project
+User Story,14935,Authentication wireframe,Yotsakai Taparak <yotsakai@ldrive.io>,Closed,0.5,0.5,Design Operations,,CIMB\PGD\PGD_SA,Plan,Well,Project
+User Story,14954,"PGD - Recheck wording, Revise - Register, Login, Forgot Pwd",Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,,CIMB\PGD\PGD_SA,Plan,Well,Project
+User Story,14587,"eKYC - Revise design from Fri, 13 Aug",Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.5,0.5,Design Operations,,CIMB\MAM P2\MAMP2-SA,Plan,Well,Project
+User Story,14590,eKYC - Rearrange Flow,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Design Flow,,CIMB\MAM P2\MAMP2-SA,Plan,Well,Project
+User Story,14592,MAM - Weekly progress update wk1,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Meeting,,CIMB\MAM P2\MAMP2-SA,Plan,Well,Project
+User Story,14593,MAM - Weekly progress update wk2,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Meeting,,CIMB\MAM P2\MAMP2-SA,Plan,Well,Project
+User Story,14606,eKYC - Revise - Retry Dip Chip,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,,CIMB\MAM P2\MAMP2-SA,Plan,Well,Project
+User Story,14620,MAM - HPCS Manage Reject reason,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,,CIMB\MAM P2\MAMP2-SA,Plan,Well,Project
+User Story,14586,Progress Update,Yotsakai Taparak <yotsakai@ldrive.io>,Removed,0.25,0.25,Meeting,,L-Drive\Moreloop\Moreloop_SA,Plan,Well,Project
+User Story,14615,Progress Update wk1,Yotsakai Taparak <yotsakai@ldrive.io>,Removed,0.25,0.25,Meeting,,L-Drive\EatWell\EW-SA,Plan,Well,Project
+User Story,14617,Progress Update wk2,Yotsakai Taparak <yotsakai@ldrive.io>,Removed,0.25,0.25,Meeting,,L-Drive\EatWell\EW-SA,Plan,Well,Project
+User Story,14589,Review Dashboard/Realtime Tracking/Messenger Performance,Yotsakai Taparak <yotsakai@ldrive.io>,Removed,0.25,0.25,Meeting,,JIB\Fullfillment\Fullfillment_SA,Plan,Well,Project
+User Story,14595,Revise Dashboard/Realtime Tracking/Messenger Performance,Yotsakai Taparak <yotsakai@ldrive.io>,Removed,0.5,0.5,Design Operations,,JIB\Fullfillment\Fullfillment_SA,Plan,Well,Project
+User Story,14598,Dashboard - Present fulfillment,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Removed,0.25,0.25,Meeting,,JIB\Fullfillment\Fullfillment_SA,Plan,Well,Project
+User Story,14602,Dashboard - Reserved for adjusting,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Removed,0.5,0.5,Design Operations,,JIB\Fullfillment\Fullfillment_SA,Plan,Well,Project

@@ -1,0 +1,33 @@
+Work Item Type,ID,Title,Assigned To,State,Story Points,Estimate Story Point,Category,Tags,Area Path,Tags_New,AreaPath_New
+User Story,13417,PRB Business card,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,Missile,JIBSoft Project\Other,Missile,Project
+User Story,13835,[MET] STP - Weekly status update W1,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.25,0.25,Meeting,,JIBSoft Project\Other,Plan,Project
+User Story,13836,[OPS] Moreloop-Dashboard,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,2.0,2.0,Design Operations,,JIBSoft Project\Other,Plan,Project
+User Story,13837,[OPS] JIB Online - Setting Design System,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,2.0,2.0,Design Operations,,JIBSoft Project\JIB Online,Plan,Project
+User Story,13838,Apple Auto Flow,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.5,0.5,Design Flow,,JIBSoft Project\Other,Plan,Project
+User Story,13860,Ideate Design System,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,1.0,1.0,Design Operations,,JIBSoft Project\JIB Online,Plan,Project
+User Story,13878,Dashboard ideation,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.5,0.25,Design Operations,,JIBSoft Project\Other,Plan,Project
+User Story,14092,Overflow for Moreloop Authentication,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.5,0.5,Design Flow,Missile,JIBSoft Project\Other,Missile,Project
+User Story,14106,Overflow for Moreloop CRUD Model,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.5,0.5,Design Flow,Missile,JIBSoft Project\Other,Missile,Project
+User Story,14107,Overflow for Moreloop Order & PO,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.5,0.5,Design Flow,Missile,JIBSoft Project\Other,Missile,Project
+User Story,14108,Internal Review Moreloop Dashboard + MoreSheet Quotaion,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.25,0.25,Meeting,,JIBSoft Project\Other,Plan,Project
+User Story,14109,Progress Update wk1,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.25,0.25,Meeting,,JIBSoft Project\L-Drive\LD-SA,Plan,Project
+User Story,14110,Progress Update wk2,Yot Yotsakai <yotsakai@ldrive.io>,Closed,,0.25,Meeting,,JIBSoft Project\L-Drive\LD-SA,Plan,Project
+User Story,14111,Progress Update wk1,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.25,0.25,Meeting,,JIBSoft Project\Other,Plan,Project
+User Story,14112,Progress Update wk2,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.25,0.25,Meeting,,JIBSoft Project\Other,Plan,Project
+User Story,14113,Dashboard,Yot Yotsakai <yotsakai@ldrive.io>,Closed,2.0,2.0,Design Operations,,JIBSoft Project\Other,Plan,Project
+User Story,14115,Wealth management logic,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.25,0.25,Design Operations,,JIBSoft Project\Other,Plan,Project
+User Story,14116,Support dev,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.25,0.25,Design Operations,,JIBSoft Project\L-Drive\EatWell\EW-SA,Plan,Project
+User Story,13861,Progress Update wk1,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Meeting,,JIBSoft Project\YLG\YLG-SA,Plan,Project
+User Story,13862,WinApp - Revise ImEx Fx Form & Planning,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,,JIBSoft Project\YLG\YLG-SA,Plan,Project
+User Story,13872,Progress Update wk2,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Meeting,,JIBSoft Project\YLG\YLG-SA,Plan,Project
+User Story,13997,SA/Design/QA Working process Exploring,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.5,0.5,Project Management,Missile,JIBSoft Project\JDC\JDC,Missile,Support
+User Story,13998,SA/Design/QA Workflow IDEATION,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.5,0.5,Project Management,Missile,JIBSoft Project\JDC\JDC,Missile,Support
+User Story,14088,POC Figma community & trends,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.5,0.5,Design Operations,Missile,JIBSoft Project\JDC\JDC,Missile,Support
+User Story,14091,Fontawesome Preparation,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,Missile,JIBSoft Project\JDC\JDC,Missile,Support
+User Story,14098,POC Overflow,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.5,0.5,Design Operations,Missile,JIBSoft Project\JDC\JDC,Missile,Support
+User Story,14099,Prep demo dashboard,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,1.0,1.0,Project Management,Missile; Problem,JIBSoft Project\JDC\JDC,Missile,Support
+User Story,14128,Data Cleaning for Demo csv,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,1.0,0.5,Project Management,Missile,JIBSoft Project\JDC\JDC,Missile,Support
+User Story,14029,Pre Grooming,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.5,0.5,Meeting,Missile,JIBSoft Project\YLG\YLG-SA,Missile,Project
+User Story,14065,[MET] Price table discuss,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Meeting,,JIBSoft Project\YLG\YLG-SA,Plan,Project
+User Story,14103,"Detail โอนเงิน -> มัดจำ, หลักประกัน",Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,,JIBSoft Project\YLG\YLG-SA,Plan,Project
+User Story,14114,YLG bookbank selection,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.25,0.25,Design Operations,Missile,JIBSoft Project\YLG\YLG-SA,Missile,Project
