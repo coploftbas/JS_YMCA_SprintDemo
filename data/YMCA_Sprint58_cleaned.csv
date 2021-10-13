@@ -1,0 +1,68 @@
+Work Item Type,ID,Title,Assigned To,State,Story Points,Estimate Story Point,Category,Tags,Area Path,Missile,AreaPathType
+User Story,14147,MAM - Kickoff Meeting,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.5,0.25,Meeting,Extend pt,CIMB\MAM P2\MAM-SA,Plan,Project
+User Story,14150,MAM Understand Document,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,1.0,1.0,Gathering Req.,,CIMB\MAM P2\MAM-SA,Plan,Project
+User Story,14156,MAM - Dry Run,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Meeting,,CIMB\MAM P2\MAM-SA,Plan,Project
+User Story,14162,MAM Improve UI - Illustration,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.5,1.0,Design Operations,,CIMB\MAM P2\MAM-SA,Plan,Project
+User Story,14164,MAM - Weekly progress update,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Meeting,,CIMB\MAM P2\MAM-SA,Plan,Project
+User Story,14165,"MAM - Preview and attach Summary information report, Investment page: Add Field Dealer Campaign",Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,Missile,CIMB\MAM P2\MAM-SA,Missile,Project
+User Story,14333,MAM - Timeline adjustment,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Meeting,,CIMB\MAM P2\MAM-SA,Plan,Project
+User Story,14342,Review requirement documents,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.5,0.5,Design Operations,,CIMB\MAM P2\MAM-SA,Plan,Project
+User Story,14371,MAM - Read & Pre-fill data from Smart card,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,,CIMB\MAM P2\MAM-SA,Plan,Project
+User Story,14372,MAM - Able to drop PIN for customer location,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,,CIMB\MAM P2\MAM-SA,Plan,Project
+User Story,14373,MAM - Show only eligible campaign and interest rate,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,,CIMB\MAM P2\MAM-SA,Plan,Project
+User Story,14374,MAM - Auto rate calculation,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,,CIMB\MAM P2\MAM-SA,Plan,Project
+User Story,14403,MAM - Approve flat rate via system,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.5,0.5,Design Operations,,CIMB\MAM P2\MAM-SA,Plan,Project
+User Story,14404,MAM - Auto Pre-fill from History Contact,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,Missile,CIMB\MAM P2\MAM-SA,Missile,Project
+User Story,14405,"MAM - Pulling notification, Preview and attach Redbook report",Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,,CIMB\MAM P2\MAM-SA,Plan,Project
+User Story,14406,MAM - Add Page reason of cancellation and rejection,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,,CIMB\MAM P2\MAM-SA,Plan,Project
+User Story,14407,"MAM - Customer Profile page: Validation Mobile Phone Number, Add New Fields for NCB Purpose",Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,Missile,CIMB\MAM P2\MAM-SA,Missile,Project
+User Story,14408,"MAM - Rearrange fields in the tabs, Can remove the uploaded image/file",Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,Missile,CIMB\MAM P2\MAM-SA,Missile,Project
+User Story,14409,"MAM - Show Remark on Application Log Marketing, Can sort by applicate date or status",Jesda Khamlue <jesda@jibsoft.co.th>,Closed,,0.5,Design Operations,Missile,CIMB\MAM P2\MAM-SA,Missile,Project
+User Story,14410,MAM - Accept Consent on Application by OTP E-Signature ,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.5,0.5,Design Operations,Missile,CIMB\MAM P2\MAM-SA,Missile,Project
+User Story,14428,MAM - Review P'Mark's work,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Meeting,,CIMB\MAM P2\MAM-SA,Plan,Project
+User Story,14437,MAM - KYC Rearrange flow,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.5,0.5,Design Flow,,CIMB\MAM P2\MAM-SA,Plan,Project
+User Story,14438,"MAM - KYC Check amlo, watchlist, sanction list, blacklist, Forgot Pin",Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.5,0.5,Design Operations,,CIMB\MAM P2\MAM-SA,Plan,Project
+User Story,14469,eKYC - Review - Forgot PIN / AMLO,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Meeting,,CIMB\MAM P2\MAM-SA,Plan,Project
+User Story,14490,MAM - KYC Review,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.25,0.25,Meeting,Missile,CIMB\MAM P2\MAM-SA,Missile,Project
+User Story,14491,"MAM - KYC Revise Step T&C, Dip Ship, DOPA, NCB  Status",Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,Missile,CIMB\MAM P2\MAM-SA,Missile,Project
+User Story,14492,MAM - KYC Update Flow,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.5,0.5,Design Flow,Missile,CIMB\MAM P2\MAM-SA,Missile,Project
+User Story,14497,"eKYC - Discuss ALT flow with P'Boss, Tae",Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Meeting,,CIMB\MAM P2\MAM-SA,Plan,Project
+User Story,14498,"eKYV, MAM - Recheck design, flow, logic",Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,,CIMB\MAM P2\MAM-SA,Plan,Project
+User Story,14501,eKYC - Review FSD together with Design Flow,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Meeting,,CIMB\MAM P2\MAM-SA,Plan,Project
+User Story,14529,eKYC - Internal review,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.25,0.25,Design Flow,Missile,CIMB\MAM P2\MAM-SA,Missile,Project
+User Story,14530,MAM - Discuss Req. special rate calculation,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Meeting,,CIMB\MAM P2\MAM-SA,Plan,Project
+User Story,14313,"POC ODOO - CRM, EPR tool",Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Project Management,,JDC\JDC,Plan,Project
+User Story,14514,STP E-Signature,Jesda Khamlue <jesda@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,Missile,JDC\Political party web,Missile,Project
+User Story,14522,Messenger performance Review,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.25,0.25,Design Operations,Missile,JIB\Fullfillment\Fullfillment_SA,Missile,Project
+User Story,14419,Dashboard Feedback,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.25,0.25,Design Operations,Missile,JIB\Fullfillment\Fullfillment_SA,Missile,Project
+User Story,14487,Messenger performance overview Review & Feedback session,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.25,0.25,Meeting,Missile,JIB\Fullfillment\Fullfillment_SA,Missile,Project
+User Story,14488,Messenger performance overview Feedback,Yot Yotsakai <yotsakai@ldrive.io>,Closed,1.0,1.0,Design Operations,Missile,JIB\Fullfillment\Fullfillment_SA,Missile,Project
+User Story,14495,Dashboard - Review with IT,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,Missile,JIB\Fullfillment\Fullfillment_SA,Missile,Project
+User Story,14336,Dashboard - Requirement Brief,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Meeting,Missile,JIB\Fullfillment\Fullfillment_SA,Missile,Project
+User Story,14337,Stock Dashboard - Ideate,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,1.0,1.0,Design Operations,Missile,JIB\Fullfillment\Fullfillment_SA,Missile,Project
+User Story,14338,MSG & MSI KPI Dashboard - Ideate & Review,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,Missile,JIB\Fullfillment\Fullfillment_SA,Missile,Project
+User Story,14339,Dashboard - Review with DS,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Meeting,Missile,JIB\Fullfillment\Fullfillment_SA,Missile,Project
+User Story,14343,Dashboard - Setup project & POC graph,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,Missile,JIB\Fullfillment\Fullfillment_SA,Missile,Project
+User Story,14344,Dashboard,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.5,0.5,Design Operations,Missile,JIB\Fullfillment\Fullfillment_SA,Missile,Project
+User Story,14369,Order Detail (Kanban Board),Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.25,0.5,Design Operations,Missile,JIB\Fullfillment\Fullfillment_SA,Missile,Project
+User Story,14377,Order timeline realtime,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.5,0.5,Design Operations,Missile,JIB\Fullfillment\Fullfillment_SA,Missile,Project
+User Story,14378,Messenger performance overview,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.5,0.5,Design Operations,Missile,JIB\Fullfillment\Fullfillment_SA,Missile,Project
+User Story,14376,Support Figma for SA,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.25,0.25,Design Operations,,L-Drive\EatWell\EW-SA,Plan,Project
+User Story,14441,Update Figma,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.25,0.25,Meeting,,L-Drive\EatWell\EW-SA,Plan,Project
+User Story,14135,Progress Update wk1,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.25,0.25,Meeting,,L-Drive\EatWell\EW-SA,Plan,Project
+User Story,14139,Character transformation effect ,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.25,0.25,Meeting,,L-Drive\EatWell\EW-SA,Plan,Project
+User Story,14161,Moreloop Weekly Meeting - wk 2,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Meeting,,L-Drive\Moreloop\Moreloop_SA,Plan,Project
+User Story,14340,Review Overflow with Dev,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.25,0.25,Meeting,,L-Drive\Moreloop\Moreloop_SA,Plan,Project
+User Story,14341,Adjust Dashboard Detail,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.25,0.25,Design Operations,,L-Drive\Moreloop\Moreloop_SA,Plan,Project
+User Story,14489,LD Performance Tracking,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.25,0.25,Meeting,Missile,Other,Missile,Project
+User Story,14306,Discuss with P'Boss NF Bow,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,,YLG\YLG-SA,Plan,Project
+User Story,14411,YLG - Transaction Log for Audit,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.5,0.5,Design Operations,,YLG\YLG-SA,Plan,Project
+User Story,14412,Mobile - เลือกส่งวันที่เต็ม limit แล้ว,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,,YLG\YLG-SA,Plan,Project
+User Story,13461,Mobile - ปิดบัญชี revise ให้มองง่ายขึ้น,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,,YLG\YLG-SA,Plan,Project
+User Story,14499,YLG - Discuss list of changes from P'Boss,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Meeting,Missile,YLG\YLG-SA,Missile,Project
+User Story,14500,Mobile - ลดวงเงิน บอกว่าคือที่ถอนได้ / ทองนำฝาก&ทองตัดฝาก,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,Missile,YLG\YLG-SA,Missile,Project
+User Story,14502,"BO - Print สายรถ, Bank Master",Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.25,0.25,Design Operations,Missile,YLG\YLG-SA,Missile,Project
+User Story,14510,YLG - Pre Grooming,Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.5,0.5,Meeting,Missile,YLG\YLG-SA,Missile,Project
+User Story,14545,Edit Gold Brand after submit transaction in App,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.5,0.5,Design Operations,Missile,YLG\YLG-SA,Missile,Project
+User Story,14546,Edit Gold Brand after submit transaction by Salesman in WinApp,Yot Yotsakai <yotsakai@ldrive.io>,Closed,0.5,0.5,Design Operations,Missile,YLG\YLG-SA,Missile,Project
+User Story,14553,"BO - Tx Log, Payment file",Pipat Waitayaworanart <pipat@jibsoft.co.th>,Closed,0.5,0.25,Design Operations,Extend pt; Missile,YLG\YLG-SA,Missile,Project
